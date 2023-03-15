@@ -1,0 +1,16 @@
+.auth {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  .auth-form {
+    width: 50%;
+    margin-top: 100px;
+  }
+}
+
+
+.MuiTypography-h4 {
+  color: rgb(84, 83, 83);
+}
